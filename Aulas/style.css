@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Exercicio h2{
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+}
+button{
+    padding: 0.3em;
+}
+.Exercicio{
+    margin-bottom: 3em;
+    align-items: center;
+    justify-content: center;
+}
+.inputNumber{
+    padding: 0.2em;
+    width: 5.5em;
+}
